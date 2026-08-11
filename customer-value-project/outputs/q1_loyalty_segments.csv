@@ -1,0 +1,5 @@
+customer_segment,customer_count,pct_of_base,avg_purchase_amount,avg_previous_purchases,avg_lifetime_value_proxy,avg_review_rating,promo_usage_pct
+Genuinely Loyal (Organic),1171,30.0,75.14,38.4,2852.0,3.8,25.5
+Promo-Assisted Repeat Buyer,774,19.8,51.28,29.9,1445.0,3.72,100.0
+Low Engagement / Occasional,1351,34.6,51.46,17.4,761.0,3.72,0.0
+Discount-Only Buyer,604,15.5,59.39,12.1,717.0,3.75,100.0

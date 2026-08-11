@@ -1,0 +1,17 @@
+category,season,customer_count,avg_previous_purchases,avg_engagement_score
+Accessories,Summer,312,26.8,43.7
+Footwear,Winter,140,26.7,46.2
+Clothing,Winter,448,26.1,43.8
+Outerwear,Spring,81,26.0,43.1
+Accessories,Spring,301,25.9,43.7
+Footwear,Summer,160,25.6,43.0
+Accessories,Winter,303,25.5,43.5
+Clothing,Fall,427,25.5,42.1
+Outerwear,Winter,80,25.2,43.7
+Clothing,Spring,454,24.8,42.5
+Accessories,Fall,324,24.7,41.5
+Footwear,Fall,136,24.6,41.0
+Clothing,Summer,408,24.5,41.4
+Outerwear,Fall,88,24.4,42.7
+Outerwear,Summer,75,24.3,40.0
+Footwear,Spring,163,24.2,41.7

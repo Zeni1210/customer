@@ -1,0 +1,17 @@
+value_tier,promo_dependency_tier,customer_count,avg_purchase_amount,avg_lifetime_value_proxy
+Bronze,No Promo Use,584,49.05,325.0
+Bronze,Low Dependency,3,22.0,557.0
+Bronze,Moderate Dependency,70,41.83,332.0
+Bronze,High Dependency,318,49.47,304.0
+Silver,No Promo Use,534,51.4,946.0
+Silver,Low Dependency,40,29.2,1022.0
+Silver,Moderate Dependency,217,39.54,948.0
+Silver,High Dependency,186,65.09,902.0
+Gold,No Promo Use,539,60.15,1676.0
+Gold,Low Dependency,86,46.29,1728.0
+Gold,Moderate Dependency,256,58.88,1709.0
+Gold,High Dependency,92,78.98,1623.0
+Platinum,No Promo Use,566,79.78,3111.0
+Platinum,Low Dependency,124,75.78,3237.0
+Platinum,Moderate Dependency,277,80.66,3135.0
+Platinum,High Dependency,8,96.5,2423.0

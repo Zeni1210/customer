@@ -1,0 +1,51 @@
+location,customer_count,avg_purchase_amount,avg_ltv_proxy,promo_usage_pct,organic_loyal_pct,geo_demand_type
+Arizona,65,66.55,1934.22,33.8,46.2,"Underlevered (high quality, small base)"
+Pennsylvania,74,66.57,1871.3,44.6,45.9,"Underlevered (high quality, small base)"
+Alaska,72,67.6,1870.11,40.3,41.7,"Underlevered (high quality, small base)"
+Hawaii,65,57.72,1723.18,49.2,40.0,"Underlevered (high quality, small base)"
+Nevada,87,63.38,1717.28,47.1,36.8,Core / Average
+Wyoming,71,60.69,1704.0,42.3,40.8,"Underlevered (high quality, small base)"
+Iowa,69,60.88,1694.81,52.2,30.4,"Underlevered (high quality, small base)"
+Michigan,73,62.1,1691.79,39.7,38.4,"Underlevered (high quality, small base)"
+Utah,71,62.58,1680.41,46.5,38.0,"Underlevered (high quality, small base)"
+Tennessee,77,61.97,1655.22,36.4,35.1,"Underlevered (high quality, small base)"
+Missouri,81,57.91,1642.67,49.4,28.4,Core / Average
+Illinois,92,61.05,1637.63,40.2,32.6,Core / Average
+New Hampshire,71,59.42,1632.13,43.7,26.8,Core / Average
+Arkansas,79,61.11,1631.28,46.8,35.4,Core / Average
+New Mexico,81,61.9,1593.96,44.4,35.8,Core / Average
+Alabama,89,59.11,1582.87,40.4,31.5,Core / Average
+South Dakota,70,60.51,1549.6,37.1,35.7,"Underlevered (high quality, small base)"
+Georgia,79,58.8,1548.84,40.5,35.4,Core / Average
+Indiana,79,58.92,1538.05,57.0,31.6,Core / Average
+Washington,73,63.33,1537.15,43.8,31.5,"Underlevered (high quality, small base)"
+Mississippi,80,61.04,1536.08,47.5,27.5,Core / Average
+North Carolina,78,60.79,1524.63,44.9,34.6,Core / Average
+Ohio,77,60.38,1519.51,44.2,27.3,Core / Average
+Montana,96,60.25,1519.16,37.5,26.0,Core / Average
+Minnesota,88,56.56,1517.27,44.3,27.3,Core / Average
+Florida,68,55.85,1504.22,45.6,23.5,Core / Average
+Oregon,74,57.34,1500.08,51.4,32.4,Core / Average
+Nebraska,87,59.45,1498.86,42.5,31.0,Core / Average
+Virginia,77,62.88,1491.95,37.7,29.9,Core / Average
+South Carolina,76,58.41,1486.28,50.0,18.4,Core / Average
+North Dakota,83,62.89,1481.23,45.8,32.5,Core / Average
+West Virginia,81,63.88,1479.32,49.4,27.2,Core / Average
+Kentucky,79,55.72,1470.99,43.0,26.6,Core / Average
+Maryland,86,55.76,1470.62,44.2,26.7,Core / Average
+Rhode Island,63,61.44,1440.59,39.7,30.2,Core / Average
+Idaho,93,60.08,1437.31,40.9,29.0,Core / Average
+Vermont,85,57.18,1423.64,38.8,25.9,Core / Average
+New York,87,60.43,1410.09,41.4,29.9,Core / Average
+California,95,59.0,1400.18,42.1,22.1,Core / Average
+Texas,77,61.19,1378.6,36.4,26.0,Core / Average
+Colorado,75,56.29,1376.75,41.3,26.7,Core / Average
+Louisiana,84,57.71,1362.54,41.7,27.4,Core / Average
+Delaware,86,55.33,1334.03,45.3,23.3,Core / Average
+Massachusetts,72,60.89,1328.64,48.6,18.1,Core / Average
+New Jersey,67,56.75,1323.63,40.3,19.4,Core / Average
+Oklahoma,75,58.35,1286.59,48.0,22.7,Core / Average
+Connecticut,78,54.18,1283.47,33.3,28.2,Core / Average
+Maine,77,56.99,1277.99,35.1,26.0,Core / Average
+Wisconsin,75,55.95,1265.73,48.0,22.7,Core / Average
+Kansas,63,54.56,1255.86,23.8,20.6,Core / Average
